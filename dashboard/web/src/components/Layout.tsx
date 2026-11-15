@@ -45,7 +45,7 @@ export function Layout() {
       </main>
 
       <footer className="mx-auto max-w-6xl px-6 pb-10 text-xs text-muted">
-        Built by Jaden. Performance tracked live.
+        Built by Lee. Performance tracked live.
       </footer>
     </div>
   );

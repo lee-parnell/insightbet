@@ -64,7 +64,7 @@ export function Layout() {
         <div className="bottom-wave-wrap">
           <BottomWave />
           <footer className="relative z-10 mx-auto w-full max-w-6xl px-6 pb-10 pt-10 text-xs text-muted">
-            Built by Jaden. Performance tracked live.
+            Built by Lee. Performance tracked live.
           </footer>
         </div>
       </div>
